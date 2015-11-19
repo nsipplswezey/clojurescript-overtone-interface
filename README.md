@@ -3,8 +3,9 @@ Buttons(clojurescript) to control an overtone(clojure+supercollider) server
 
 The app requires clojure and leiningen, the package manager for the clojure community.
 If you're new to these tools see:
-https://gist.github.com/technomancy/2395913
 
+https://gist.github.com/technomancy/2395913
+and
 http://leiningen.org/
 
 To run:
