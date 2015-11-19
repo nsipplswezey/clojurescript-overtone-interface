@@ -11,7 +11,7 @@ http://leiningen.org/
 To run:
 ```lein run```
 
-Then point your browser at localhost:8000.
+Then point your browser at localhost:8080.
 
 Then to get it up and running on your ipad, connect your ipad to the same network as your computer.
 Then find your machines IP address, and point your ipad at your computers localhost server by replacing 'localhost' with your machines IP (ex 1.0.0.1:8000).
