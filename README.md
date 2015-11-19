@@ -1,12 +1,14 @@
 # clojurescript-overtone-interface
 Buttons(clojurescript) to control an overtone(clojure+supercollider) server
 
-The app requires clojure and leiningen, the package manager for the clojure community.
-If you're new to these tools see:
+The app requires clojure, leiningen and overtone.
+If you're new to these tools like I was when I started this project see the following resources to get ideas for how to get started. Clojure and it's related projects are a fun, inspiring and often beautiful ecosystem.
 
 https://gist.github.com/technomancy/2395913
-and
+
 http://leiningen.org/
+
+https://github.com/overtone/overtone/wiki/Getting-Started
 
 To run:
 ```lein run```
