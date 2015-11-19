@@ -10,7 +10,7 @@ http://leiningen.org/
 
 https://github.com/overtone/overtone/wiki/Getting-Started
 
-To run:
+# Running the clojurescript-overtone-interface
 ```lein run```
 
 Then point your browser at localhost:8080.
